@@ -22,7 +22,7 @@
 
 ## 🚀 Demo
 
-[Live Demo] https://your-live-demo-link.com](https://mahajan-om.github.io/DevDetective/
+[Live Demo]  ([https://mahajan-om.github.io/DevDetective/])
 
 
 ## 🛠️ Tech Stack
